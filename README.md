@@ -32,7 +32,7 @@ We're entering an era where hundreds of drones and personal aerial vehicles will
 [![Watch the demo](Media/New%20Project.jpg)](https://youtu.be/UAgHzmPs2Lc) 
 ## 🎬 Demo
 
-<video src="media/Lorenz-AI-Aerial-Highway.mp4" controls width="800"></video>
+<video src="Media/Lorenz-AI-Aerial-Highway.mp4" controls width="800"></video>
 
 📷 Follow development on [Instagram](https://instagram.com/lorenz.motors)
 
