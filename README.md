@@ -29,7 +29,8 @@ We're entering an era where hundreds of drones and personal aerial vehicles will
 ---
 
 ## 📸 Demo & Screenshots
- 
+[![Watch the demo](Media/New%20Project.jpg)](https://youtu.be/UAgHzmPs2Lc) 
+
 📷 Follow development on [Instagram](https://instagram.com/lorenz.motors)
 
 
