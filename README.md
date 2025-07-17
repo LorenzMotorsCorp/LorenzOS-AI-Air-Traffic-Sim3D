@@ -31,8 +31,7 @@ We're entering an era where hundreds of drones and personal aerial vehicles will
 ## 📸 Demo & Screenshots
 [![Watch the demo](Media/New%20Project.jpg)](https://youtu.be/UAgHzmPs2Lc) 
 
-
-https://github.com/LorenzMotorsCorp/LorenzOS-AI-Air-Traffic-Sim3D/blob/main/Media/Lorenz-AI-Aerial-Highway.mp4
+[▶️ Watch demo] (Media/LorenzHighwayinTheSky.mp4)
 
 
 📷 Follow development on [Instagram](https://instagram.com/lorenz.motors)
